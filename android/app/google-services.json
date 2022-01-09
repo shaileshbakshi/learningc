@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "511268128484",
+    "firebase_url": "https://learningc-967be.firebaseio.com",
+    "project_id": "learningc-967be",
+    "storage_bucket": "learningc-967be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511268128484:android:5a11b3b6083dcffedc4ef1",
+        "android_client_info": {
+          "package_name": "com.programmingmaster.learningc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511268128484-mr694qjlod9didpr397g52dgmp1euv2i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.programmingmaster.learningc",
+            "certificate_hash": "aa5d3748058714c368e896578bcb61d886fb1930"
+          }
+        },
+        {
+          "client_id": "511268128484-s19ofvmrlnm9pmrlfh52g9p2tgqosd7q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA96UQaVWLMftoZg-FXA-b2fAX0tWewRUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511268128484-s19ofvmrlnm9pmrlfh52g9p2tgqosd7q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
